@@ -7,7 +7,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import WebDriverException, TimeoutException
 from selenium.webdriver.common.by import By
 
-URL = "https://github.com/feeloveyou"   # your github addres
+URL = "https://github.com/rf2"   # your github addres
 REFRESH_INTERVAL = 1                    
 USE_EXISTING_PROFILE = False            
 CHROME_USER_DATA_DIR = r""              
